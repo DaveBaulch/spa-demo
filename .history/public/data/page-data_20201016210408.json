@@ -1,0 +1,238 @@
+{
+  "pageID": 1,
+  "title": "Page title",
+  "data":[
+    {
+      "id": 1,
+      "type": "AppHero",
+      "content": {
+        "title": "Hero title test 1",
+        "imgSrc1": "https://picsum.photos/575/300?image=1",
+        "imgSrc2": "https://picsum.photos/767/275?image=2",
+        "imgSrc3": "https://picsum.photos/991/260?image=3",
+        "imgSrc4": "https://picsum.photos/1500/400?image=4",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate tenetur officiis excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>",
+        "btnText": "Click the button"
+      }
+    }, 
+    {      
+      "id": 2,
+      "type": "AppSectors",
+      "content": {
+        "title": "Sectors title",
+        "data": [
+          {
+            "id": 1,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=1",
+            "title": "Sector title 1",
+            "text": "excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>"
+          },
+          {
+            "id": 2,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=2",
+            "title": "Sector title 2",
+            "text": "excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>"
+          },
+          {
+            "id": 3,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=3",
+            "title": "Sector title 3",
+            "text": "excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>"
+          },
+          {
+            "id": 4,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=4",
+            "title": "Sector title 4",
+            "text": "excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>"
+          },
+          {
+            "id": 5,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=5",
+            "title": "Sector title 5",
+            "text": "excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>"
+          },
+          {
+            "id": 6,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=6",
+            "title": "Sector title 6",
+            "text": "excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>"
+          },
+          {
+            "id": 7,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=7",
+            "title": "Sector title 7",
+            "text": "excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>"
+          },
+          {
+            "id": 8,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=8",
+            "title": "Sector title 8",
+            "text": "excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>"
+          }
+        ]
+      }
+    }, 
+    {      
+      "id": 3,
+      "type": "AppText",
+      "content": {
+        "text": "<h2>H2 heading</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href=\"http://www.bbc.co.uk\">Sed ultrices</a> iaculis ex, non consectetur orci ullamcorper et. Nullam eget velit feugiat, <em>sagittis sem sollicitudin</em>, <strong>laoreet magna</strong>. Sed sed nibh suscipit, sodales felis non, malesuada nisi. Nunc feugiat mi eget enim dignissim, ut vestibulum risus fringilla. Sed maximus commodo tincidunt. Nunc dignissim orci neque, sed pretium massa viverra ac. Sed a metus consectetur, rutrum arcu at, lacinia urna.</p><h3>H3 heading</h3><p>Vestibulum dignissim suscipit velit, et congue massa hendrerit eu. Suspendisse feugiat auctor imperdiet. Praesent finibus, nisl quis dictum volutpat, nulla nulla suscipit leo, vitae tincidunt erat augue pretium sapien. Ut nec turpis tempus elit tincidunt volutpat non a nisl. Nullam vitae mauris odio. Nam ac ante nec ex lacinia porta. In hac habitasse platea dictumst. Maecenas a est ligula. Duis lobortis, justo sed pulvinar molestie, velit libero efficitur lorem, a vestibulum mauris orci sed erat. Sed tristique neque lorem, et lobortis leo viverra porta. Aliquam eu sodales est, quis euismod risus. Morbi magna risus, consectetur sit amet scelerisque nec, dictum ac est.</p>"
+      } 
+    },    
+    {      
+      "id": 4,
+      "type": "AppCarousel",
+      "content": [
+        {
+          "id": 1,
+          "title": "Hero title test 1",
+          "imgSrc1": "https://picsum.photos/575/300?image=1",
+          "imgSrc2": "https://picsum.photos/767/275?image=2",
+          "imgSrc3": "https://picsum.photos/991/260?image=3",
+          "imgSrc4": "https://picsum.photos/1500/400?image=3",
+          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate tenetur officiis excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>",
+          "btnText": "Click this button 1"
+        },
+        {
+          "id": 2,
+          "title": "Hero title test 2",
+          "imgSrc1": "https://picsum.photos/767/275?image=1",
+          "imgSrc2": "https://picsum.photos/991/260?image=2",
+          "imgSrc3": "https://picsum.photos/1500/400?image=3",
+          "imgSrc4": "https://picsum.photos/575/300?image=4",
+          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate tenetur officiis excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>",
+          "btnText": "Click this button 2"
+        },
+        {
+          "id": 3,
+          "title": "Hero title test 3",
+          "imgSrc1": "https://picsum.photos/991/260?image=1",
+          "imgSrc2": "https://picsum.photos/1500/400?image=2",
+          "imgSrc3": "https://picsum.photos/575/300?image=3",
+          "imgSrc4": "https://picsum.photos/767/275?image=4",      
+          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate tenetur officiis excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>",
+          "btnText": "Click this button 3"
+        }
+      ]
+    },    
+    {
+      "id": 5,
+      "type": "AppQuote",
+      "content": {
+        "text": "<p>\"Test: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate tenetur officiis excepturi porro ducimus ab provident.\"<p>",
+        "author": "Test: Author name",
+        "jobTitle": "Test: Author title"
+      }
+    },
+    {      
+      "id": 6,
+      "type": "AppCTA",
+      "content": {
+        "title": "CTA title",
+        "imgSrc1": "https://picsum.photos/575/300?image=1",
+        "imgSrc2": "https://picsum.photos/767/275?image=2",
+        "imgSrc3": "https://picsum.photos/991/260?image=3",
+        "imgSrc4": "https://picsum.photos/1500/400?image=4",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>",
+        "btnText": "CTA button"
+      }
+    },
+    {      
+      "id": 7,
+      "type": "AppCardList",
+      "content": {
+        "title": "Cards title",
+        "data": [
+          {
+            "id": 1,
+            "tag": "Tag 1",
+            "tagClass": "news",
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=1",
+            "title": "Card title 1",
+            "text": "<p>Card 1 text excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque.</p>",
+            "date": "9/10/2019"
+          },
+          {
+            "id": 2,
+            "tag": "Tag 2",
+            "tagClass": "work",
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=2",
+            "title": "Card title 2",
+            "text": "<p>Card 2 text excepturi porro ducimus ab provident, quas temporibus ratione illo quae neque cupiditate totam facere nulla ad exercitationem itaque incidunt.</p>",
+            "date": "10/10/2019"
+          },
+          {
+            "id": 3,
+            "tag": null,
+            "tagClass": null,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=3",
+            "title": "Card title 3",
+            "text": "<p>Card 3 text excepturi porro ducimus ab provident, facere nulla ad exercitationem itaque incidunt.</p>",
+            "date": "11/10/2019"
+          },
+          {
+            "id": 4,
+            "tag": "Tag 3",
+            "tagClass": "case-study",
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=4",
+            "title": "Card title 4",
+            "text": "<p>Card 4 text excepturi porro ducimus ab provident.</p>",
+            "date": "12/10/2019"
+          },
+          {
+            "id": 5,
+            "tag": null,
+            "tagClass": null,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=5",
+            "title": "Card title 5",
+            "text": "<p>Card 5 text excepturi porro ducimus ab provident, quas totam facere nulla ad exercitationem itaque incidunt.</p>",
+            "date": "13/10/2019"
+          },
+          {
+            "id": 6,
+            "tag": null,
+            "tagClass": null,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=6",
+            "title": "Card title 6",
+            "text": "<p>Card 6 text excepturi porro ducimus totam facere nulla ad exercitationem itaque incidunt.</p>",
+            "date": "14/10/2019"
+          },
+          {
+            "id": 7,
+            "tag": null,
+            "tagClass": null,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=7",
+            "title": "Card title 7",
+            "text": "<p>Card 7 text excepturi porro ducimus ab provident, quas temporibus facere nulla ad exercitationem itaque incidunt.</p>",
+            "date": "15/10/2019"
+          },
+          {
+            "id": 8,
+            "tag": null,
+            "tagClass": null,
+            "link": "/",
+            "imgSrc": "https://picsum.photos/575/300?image=8",
+            "title": "Card title 8",
+            "text": "<p>Card 8 text excepturi porro ducimus ab provident.</p>",
+            "date": "16/10/2019"
+          }
+        ]
+      } 
+    }
+  ]
+}
