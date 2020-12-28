@@ -27,6 +27,7 @@
         class="nav-list"
         @click="$emit('close')">
         <li class="nav-item"><router-link to="test-page">Test page</router-link></li>
+        <li class="nav-item"><router-link to="test-page2">Test page 2</router-link></li>
       </ul>      
     </div>
   </transition>
@@ -92,7 +93,7 @@ export default {
 .nav-item {
   margin: 20px 0;
 }
-
+cSidenav
 .nav-item a {
   text-decoration: none;
   color: black;
